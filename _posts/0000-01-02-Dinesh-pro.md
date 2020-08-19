@@ -3,7 +3,7 @@ layout: slide
 title: "Stay Home! Stay Safe!"
 ---
 
-| Day     | Vegie   |
+| Day     | Veggie  |
 | --------|---------|
 | Monday  | carrot  |
 | Tuesday | potato  |
